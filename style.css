@@ -1,0 +1,64 @@
+<style type="text/css">
+  
+{
+	margin:0px;
+	background:#000;
+}	
+#header	{
+    height:50px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+    position:fixed;
+	top:0px;
+	width:100%;
+}
+#section {
+	background-color:white;
+    width:800px;
+    float:left;
+    padding:10px; 
+}
+#aside {
+	background-color:#0174DF;
+	color:white;
+	float:left;
+	height:510px;
+	width:274px;
+	padding:10px;
+}
+#menu {
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px #333333;
+    background-color: #8AD9FF;
+        border-radius: 8px;
+}
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+#menu a {
+    text-decoration: none;
+    color: #00F;
+    padding: 8px 8px 8px 8px;
+}		
+#menu a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+
+</style>
